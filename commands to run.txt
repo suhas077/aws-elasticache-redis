@@ -1,0 +1,5 @@
+ redis-cli -h "  " -p 6379
+
+CLUSTER NODES
+
+redis-cli -c -h "<IP>" -p 6379
